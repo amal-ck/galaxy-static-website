@@ -1,0 +1,55 @@
+#something{
+    margin: 0px;
+}
+.header-Style a{
+    color:rgba(234, 58, 96, 1.000);
+    
+    font-family: monospace;
+}
+.header-Style a:hover{
+    text-decoration: none;
+}
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(234, 58, 96, 1.000)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.navbar-toggler{
+    border: 1px solid rgba(234, 58, 96, 1.000);
+    
+}
+.navbar a{
+    color: #fff;
+}
+
+.navbar a:hover{
+    color:#ea3a60;
+}
+.background-image{
+    width: 100%;
+}
+#home{
+    height: 800px;
+    width: 100%;
+    background-image: url('background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.quotes{
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(71, 33, 33);
+    margin-top: 235px;
+}
+.bg-nav{
+    background-color: black;
+}
+u{
+    text-decoration-color: #ea3a60;
+    text-decoration-thickness: 2px;
+}
+html{
+    scroll-behavior: smooth;
+}
+iframe{
+    border: 1px;
+}
